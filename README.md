@@ -23,5 +23,6 @@
 <ul dir="auto">
     <li>Java Certified Foundations Associate - Oracle <a href="https://drive.google.com/file/d/1ErlGTNOuvPh-X2DigjCGS0oXTPDFAvBH/view?usp=sharing" rel="nofollow">here</a></li>
     <li><b>ISTQB</b> Certified Tester Foundation Level. Check the certificate <a href="https://drive.google.com/file/d/1opeEr_FwnwU6-PDNgQxiINH6wvOHs5ht/view?usp=sharing" rel="nofollow">here</a></li>
+    <li> Google IT Support Certificate <a href="https://coursera.org/share/dbf9d569d62cd0ba2947e512d465366b" rel="nofollow">here</a></li>
 </ul>
 
