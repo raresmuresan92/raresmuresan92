@@ -9,7 +9,7 @@
 - 🤝 I’m looking to collaborate on **projects that can enhance my skills and build confidence in the testing field**
 
 - 📫 You can reach me on <a href="https://www.linkedin.com/in/rares-muresan/" rel="nofollow">
-<img src="https://camo.githubusercontent.com/44ace6d148c5e97eebb0a013b2b033faffac5d73c90415a022710eb73ebe334c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465267374796c653d666c6174" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&amp;logoColor=white&amp;style=flat" style="max-width: 100%;"></a>
+<img src="https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&related_id=3536505" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&amp;logoColor=white&amp;style=flat" style="max-width: 100%;"></a>
 
 - 📄 You can view my resume <a href="https://drive.google.com/file/d/1HSC-8Gc6D29hJRZPWGpqIX2HXvYBOT6A/view?usp=sharing" rel="nofollow">here</a>
 
