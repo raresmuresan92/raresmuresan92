@@ -8,8 +8,7 @@
 
 - 🤝 I’m looking to collaborate on **projects that can enhance my skills and build confidence in the testing field**
 
-- 📫 You can reach me on <a href="https://www.linkedin.com/in/rares-muresan/" rel="nofollow">
-<img src="https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&related_id=3536505"></a>
+- 📫 You can reach me on <a href="https://www.linkedin.com/in/rares-muresan/" rel="nofollow">Linkedin</a>
 
 - 📄 You can view my resume <a href="https://drive.google.com/file/d/1HSC-8Gc6D29hJRZPWGpqIX2HXvYBOT6A/view?usp=sharing" rel="nofollow">here</a>
 
