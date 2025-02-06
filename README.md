@@ -10,7 +10,7 @@
 
 - 📫 You can reach me on <a href="https://www.linkedin.com/in/rares-muresan/" rel="nofollow">Linkedin</a>
 
-- 📄 You can view my resume <a href="https://drive.google.com/file/d/1g65N_mh2ZHoL16kyniE2KOuDoAPdJZRD/view?usp=sharing" rel="nofollow">here</a>
+- 📄 You can view my resume <a href="https://drive.google.com/file/d/1A7U9EWOYup6JcwwGu09c0pC8HY0FvWHr/view?usp=sharing" rel="nofollow">here</a>
 
 <p align="left">
 </p>
