@@ -10,7 +10,7 @@
 
 - 📫 You can reach me on <a href="https://www.linkedin.com/in/rares-muresan/" rel="nofollow">Linkedin</a>
 
-- 📄 You can view my resume <a href="https://drive.google.com/file/d/1A7U9EWOYup6JcwwGu09c0pC8HY0FvWHr/view?usp=sharing" rel="nofollow">here</a>
+- 📄 You can view my resume <a href="https://drive.google.com/file/d/1IuXMjVZFAKtLbofrYfqPPQe_cM_rPbQ3/view?usp=sharing" rel="nofollow">here</a>
 
 <p align="left">
 </p>
@@ -23,5 +23,6 @@
     <li>Java Certified Foundations Associate - Oracle <a href="https://drive.google.com/file/d/1ErlGTNOuvPh-X2DigjCGS0oXTPDFAvBH/view?usp=sharing" rel="nofollow">here</a></li>
     <li><b>ISTQB</b> Certified Tester Foundation Level. Check the certificate <a href="https://drive.google.com/file/d/1opeEr_FwnwU6-PDNgQxiINH6wvOHs5ht/view?usp=sharing" rel="nofollow">here</a></li>
     <li> Google IT Support Certificate <a href="https://drive.google.com/file/d/1k2SfERfU-bZCj73V45Jf-gTIc1HDLj2f/view?usp=sharing" rel="nofollow">here</a></li>
+    <li> CompTIA Tech+ <a href="https://drive.google.com/file/d/1VwXrt4R6EZfcUzse16Lv_zOloFLIoTB0/view?usp=drive_link" rel="nofollow">here</a></li>
 </ul>
 
