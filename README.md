@@ -24,5 +24,6 @@
     <li><b>ISTQB</b> Certified Tester Foundation Level. Check the certificate <a href="https://drive.google.com/file/d/1opeEr_FwnwU6-PDNgQxiINH6wvOHs5ht/view?usp=sharing" rel="nofollow">here</a></li>
     <li> Google IT Support Certificate <a href="https://drive.google.com/file/d/1k2SfERfU-bZCj73V45Jf-gTIc1HDLj2f/view?usp=sharing" rel="nofollow">here</a></li>
     <li> CompTIA Tech+ <a href="https://drive.google.com/file/d/1VwXrt4R6EZfcUzse16Lv_zOloFLIoTB0/view?usp=drive_link" rel="nofollow">here</a></li>
+    <li> CompTIA A+ <a href="https://drive.google.com/file/d/1IWWlLoQZlJbYwADessGVnuXyYisrnOAt/view?usp=drive_link" rel="nofollow">here</a></li>
 </ul>
 
